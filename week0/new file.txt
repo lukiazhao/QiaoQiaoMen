@@ -1,7 +1,0 @@
-New test here
-
-Wanna push to a particular folder into the repo
-
-
-Test if create another folder,
-Where the new commit will go to.
