@@ -28,6 +28,8 @@ var fiveInts = [1, 2, 3, 4, 5]
 array1.count    // 0
 fiveInts.count  // 5
 
+
+
 if array2.isEmpty {
     // array2 is empty
     debugPrint("array2 is empty")
